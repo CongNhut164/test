@@ -6,6 +6,7 @@ namespace console_b
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("git");
             Console.WriteLine("Hello World!");
             Console.ReadKey();
         }
