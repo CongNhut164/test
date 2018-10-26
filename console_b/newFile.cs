@@ -4,5 +4,6 @@ namespace console_b
 {
   public class newFile
   {
+    int x, y;
   }
 }
